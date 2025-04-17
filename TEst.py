@@ -1,4 +1,3 @@
-zdh = ""
-
-
 print ("Hello WWorld" )
+
+L =  []
